@@ -32,40 +32,66 @@
 
 ## 🛠 Tech Stack
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" /> 
-  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square" />
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+
+  <!-- Backend -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000" />
+
+  <!-- Tools & Platforms -->
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
 </p>
+
 
 ---
 
-## 🚀 Featured Projects
+## ​ Featured Projects
 
 ### [Inventra](https://github.com/dynamicshreyashh/Inventra)
-A secure, web-based business management platform with **real-time sales tracking**, **expense monitoring**, and **web scraping** for live sports data.
+A secure, web-based **business management platform** with real-time sales tracking, expense monitoring, and web scraping for live sports data.
 
 **Tech Used:** React.js, Node.js, MongoDB, Tailwind CSS, Web Scraping, JWT Auth
 
 ---
 
-### [ShreyasH-Portfolio](https://github.com/dynamicshreyashh/ShreyasH-Portfolio)
-My personal developer portfolio showcasing my skills, projects, and contact details.
+### [WanderLust – Travel Hub](https://github.com/dynamicshreyashh/WanderLust-Travel-Platform)
+A web-based travel platform enabling users to explore destinations interactively using **real-time location tracking** and travel info.
 
-**Tech Used:** Next.js, TypeScript, Tailwind CSS, Framer Motion
+**Tech Used:** Node.js, Express.js, MongoDB, EJS, HTML/CSS, Google Maps API, JWT, bcrypt :contentReference[oaicite:0]{index=0}
 
 ---
 
-### [shreyash-portfolio-cli](https://github.com/dynamicshreyashh/shreyash-portfolio-cli)
-Interactive CLI tool to browse my portfolio right from the terminal.
+### [VanguardOps (Valorant Clone)](https://github.com/dynamicshreyashh/VanguardOps)
+A Valorant-inspired multiplayer shooter clone—showcases your skills in building **real-time interactive gameplay** and mimic mechanics.
 
-**Tech Used:** Node.js, JavaScript, Inquirer.js
+**Tech Used:** (Typically includes front-end framework, real-time communication, etc.—you can specify based on your implementation)
+
+---
+
+### [Recipe Vault](https://github.com/dynamicshreyashh/Recipe-Vault)
+A full-stack **MERN** web application for storing and managing cooking recipes, featuring recipe creation, editing, deletion, and search functionality. :contentReference[oaicite:1]{index=1}
+
+**Tech Used:** MongoDB, Express.js, React, Node.js (MERN Stack)
 
 ---
 
