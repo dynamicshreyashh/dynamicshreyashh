@@ -1,0 +1,11 @@
+{
+  "name": "readme-updater",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "update-readme": "node scripts/update-latest-repos.js"
+  },
+  "dependencies": {
+    "@octokit/rest": "^19.0.0"
+  }
+}
