@@ -1,7 +1,7 @@
 <!-- README.md - interactive profile -->
 
 <p align="center">
-  <img width="720" alt="typing" src="https://readme-typing-svg.demolab.com?font=Clash+Display&size=30&duration=3000&color=7C3AED&center=true&vCenter=true&lines=Hey+there+👋,+I'm+Shreyash+Bhosale;Full+Stack+Developer+%26+Problem+Solver;I+craft+interactive+%26+scalable+web+experiences" />
+  <img width="720" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&color=7C3AED&center=true&vCenter=true&lines=Hey+there+👋,+I'm+Shreyash+Bhosale;Full+Stack+Developer+%26+Problem+Solver;I+craft+interactive+%26+scalable+web+experiences" />
 </p>
 
 <p align="center">
@@ -23,9 +23,8 @@
 
 ## 👨‍💻 About Me
 - Graduate **B.Tech Computer Science** student at DY Patil College of Engineering and Technology, Kolhapur.
-- Passionate **Software Developer** skilled in building **scalable systems** and **interactive UIs**.
 - Current focus: **Next.js, Tailwind CSS, TypeScript, Framer Motion, and Cloud & Devops**.
-- Experienced with **Node.js, Express.js, MongoDB**, and REST API development.
+- Experienced with **Node.js, Express.js, MongoDB, WebSockets**, and REST API development.
 - Love solving problems, automating processes, and integrating creative UI with reliable backends.
 
 ---
