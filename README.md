@@ -8,6 +8,9 @@
   <a href="https://www.linkedin.com/in/shreyash-5a7726245/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://x.com/ShreyBhosale" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
   <a href="https://shreyas-h-portfolio.vercel.app" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
@@ -20,8 +23,8 @@
 
 ## 👨‍💻 About Me
 - Graduate **B.Tech Computer Science** student at DY Patil College of Engineering and Technology, Kolhapur.
-- Passionate **Full Stack Developer** skilled in building **scalable systems** and **interactive UIs**.
-- Current focus: **Next.js, Tailwind CSS, TypeScript, Framer Motion, and Cloud Deployments**.
+- Passionate **Software Developer** skilled in building **scalable systems** and **interactive UIs**.
+- Current focus: **Next.js, Tailwind CSS, TypeScript, Framer Motion, and Cloud & Devops**.
 - Experienced with **Node.js, Express.js, MongoDB**, and REST API development.
 - Love solving problems, automating processes, and integrating creative UI with reliable backends.
 
@@ -89,6 +92,7 @@ Control your mouse using **hand gestures** for scrolling, clicking, and navigati
 - **Email:** [shreyashbhosale078@gmail.com](mailto:shreyashbhosale078@gmail.com)  
 - **Portfolio:** [shreyas-h-portfolio.vercel.app](https://shreyas-h-portfolio.vercel.app)  
 - **LinkedIn:** [linkedin.com/in/shreyash-5a7726245](https://www.linkedin.com/in/shreyash-5a7726245/)
+- **Twitter:** [x.com/ShreyBhosale](https://x.com/ShreyBhosale)
 
 ---
 
