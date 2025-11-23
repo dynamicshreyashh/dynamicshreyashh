@@ -22,7 +22,6 @@
 ## 👨‍💻 About Me
 - Graduate **B.Tech Computer Science** student at DY Patil College of Engineering and Technology, Kolhapur.
 - Experienced with **Node.js, Express.js, MongoDB, WebSockets**, and REST API development.
-- Love solving problems, automating processes, and integrating creative UI with reliable backends.
 
 ---
 
