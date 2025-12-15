@@ -11,7 +11,7 @@
   <a href="https://x.com/ShreyBhosale"><img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://shreyas-h-portfolio.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="mailto:shreyashbhosale078@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/shreyashbhosale078/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://leetcode.com/u/shrshhx_09//"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=dynamicshreyashh&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views"/>
