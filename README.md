@@ -12,8 +12,6 @@
   <a href="https://leetcode.com/u/shrshhx_09//"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=dynamicshreyashh&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views"/>
-
 </div>
 
 ---
