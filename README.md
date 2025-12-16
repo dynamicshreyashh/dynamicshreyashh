@@ -1,4 +1,4 @@
-# 👨‍💻 Shreyash Bhosale | Full Stack Developer
+# 👨‍💻 Shreyash Bhosale | Backend Developer
 
 <div align="center">
 
@@ -30,7 +30,7 @@ const shreyash = {
     
     currentFocus: ["Full Stack Development", "Cloud Architecture", "AI Integration"],
     
-    askMeAbout: ["Node.js", "React", "MongoDB", "REST APIs", "AWS", "Docker"],
+    askMeAbout: ["Node.js", "MongoDB", "REST APIs", "AWS", "Docker"],
     
     recentAchievement: "Oracle Cloud Infrastructure 2025 AI Foundations Associate",
     
