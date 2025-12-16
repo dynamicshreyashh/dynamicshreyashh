@@ -1,20 +1,6 @@
 # 👨‍💻 Shreyash Bhosale | Backend Developer
 
-![Header](https://capsule-render.vercel.app/api?type=waving
-&color=gradient
-&customColorList=6,11,20
-&height=180
-&section=header
-&text=Shreyash%20Bhosale
-&fontSize=42
-&fontColor=fff
-&animation=twinkling
-&fontAlignY=32
-&desc=Backend%20Developer%20%7C%20AI%20Automation%20%7C%20Microservices
-&descAlignY=52
-&descSize=18)
-
-
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shreyash%20Bhosale&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20%7C%20AI%20Automation%20%7C%20Microservices&descAlignY=52&descSize=18)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=Building+scalable+web+applications+with+modern+tech;Turning+complex+problems+into+elegant+solutions)](https://git.io/typing-svg)
 
