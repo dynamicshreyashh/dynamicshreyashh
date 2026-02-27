@@ -8,7 +8,6 @@
 
 </div>
 ```
-<h1 align="center">Hey, I'm Shreyash Bhosale 👋</h1>
 <p align="center">
   <b>Full-Stack Engineer</b> · Pune, Maharashtra
 </p>
