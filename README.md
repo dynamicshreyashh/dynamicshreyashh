@@ -1,85 +1,69 @@
-👨‍💻 Shreyash Bhosale | Full Stack Developer
+# Learning new things everyday ⚡
+
+---
+
 <div align="center">
 
-🚀 Building scalable web applications & AI-powered systems
+<table>
+<tr>
+<td width="50%">
+
+## 🧑‍💻 Account Status :
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dynamicshreyashh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=bb86fc&text_color=ffffff" />
+
+</td>
+
+<td width="50%">
+
+<img src="https://media.giphy.com/media/3o6ZsY8j3Dq0PzXQbS/giphy.gif" width="100%" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
-👋 About Me
+---
 
-🎓 B.Tech CSE (2021–2025)
+## 🌱 Tech Stack :
 
-💼 Former Software Developer Intern @ Sinek Marketing Technology Pvt. Ltd.
-
-🏅 Oracle OCI AI Foundations Associate
-
-🌍 Sangli, Maharashtra, India
-
-📫 shreyashbhosale078@gmail.com
-
-🎯 Actively seeking Full Stack / Backend Developer roles
-
-🛠️ Tech Stack
-const shreyash = {
-    role: "Full Stack Developer",
-    backend: ["Node.js", "Express.js"],
-    frontend: ["React.js", "Tailwind CSS"],
-    databases: ["MongoDB", "MySQL", "Firebase"],
-    cloud_devops: ["AWS", "Docker", "Linux"],
-    authentication: ["JWT", "RBAC"],
-    currentFocus: ["Scalable Systems", "Cloud Architecture", "AI Integration"]
-};
-<div align="center"> <img src="https://skillicons.dev/icons?i=java,python,js,nodejs,express,react,mongodb,mysql,firebase,aws,docker,linux,git,github,html,css,tailwind" /> </div>
-
-| Project                  | Description                                                                                  | Tech                   |
-| ------------------------ | -------------------------------------------------------------------------------------------- | ---------------------- |
-| **💼 CareerConnect**     | Dual-interface MERN job portal with JWT + RBAC auth. Optimized MongoDB queries (40% faster). | MERN, JWT              |
-| **🏢 Inventra**          | Business management platform with real-time sales tracking & live data scraping.             | React, Node, MongoDB   |
-| **🏔️ Natours App**      | Tour booking platform with Stripe payments & geospatial search.                              | Node, MongoDB, Stripe  |
-| **🤖 AI Code Reviewer**  | OpenAI-powered debugging assistant with syntax-highlighted output.                           | Node, OpenAI           |
-| **✈️ WanderLust**        | Travel platform with Google Maps integration & location tracking.                            | Node, Express, MongoDB |
-| **🖱️ AI Virtual Mouse** | Hand gesture-controlled system using computer vision.                                        | Python, OpenCV         |
-
-💼 Professional Experience
-🏢 Sinek Marketing Technology Pvt. Ltd.
-
-Software Developer Intern | June 2024 – August 2024
-
-Engineered full-stack Event Management System (MERN)
-
-Implemented secure RBAC-based Admin Dashboard
-
-Integrated Firebase Realtime Database for live updates
-
-Worked with both SQL & NoSQL databases
-
-🎓 Certifications
-
-🏅 Oracle Cloud Infrastructure 2025 – AI Foundations Associate
-
-🏅 Generative AI Fundamentals – Google Cloud
-
-🏅 AICTE Virtual Internship – AWS Cloud
-
-📊 GitHub Stats
-<div align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dynamicshreyashh&show_icons=true&theme=tokyonight&hide_border=true" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dynamicshreyashh&theme=tokyonight&hide_border=true" /> </div>
-
-🤝 Connect With Me
 <div align="center">
 
-
-
-
-
-
-
+<img src="https://skillicons.dev/icons?i=java,go,js,nodejs,spring,express,mongodb,mysql,react,html,css,git,github,docker" />
 
 </div>
 
+---
+
+## 🤝 Let's Connect -
+
 <div align="center">
 
-⭐ From dynamicshreyashh
+<a href="https://twitter.com/">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
 
-"First, solve the problem. Then, write the code."
+<a href="https://www.linkedin.com/in/shreyash-5a7726245/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:shreyashbhosale078@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/shreyashbhosale078/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+## 👀 Visitor Count
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=dynamicshreyashh&label=Profile%20Views&color=bb86fc&style=for-the-badge" />
 
 </div>
