@@ -1,9 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:58A6FF&height=200&section=header&text=Shreyash%20Bhosale&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20Building%20with%20AI%20%26%20Distributed%20Systems&descAlignY=55&descSize=18" width="100%"/>
+<a href="https://shreyas-h-portfolio.vercel.app/">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:58A6FF&height=200&section=header&text=Shreyash%20Bhosale&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20building%20AI%20and%20distributed%20systems&descAlignY=55&descSize=18" width="100%"/>
+</a>
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+Engineer+%7C+Java+%2B+Python;Shipping+Scalable%2C+Event-Driven+Backends;Exploring+AI+Agents+%26+Distributed+Systems;Code+first.+Explain+later.+😄" alt="Typing SVG" />
+<a href="https://shreyas-h-portfolio.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+Engineer+%7C+Java+%2B+Python;Building+Event-Driven+%26+Distributed+Backends;Shipping+Real+AI+Integrations%2C+Not+Demos" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -27,9 +29,9 @@ class ShreyashBhosale:
     def __init__(self):
         self.role = "Full-Stack Engineer"
         self.location = "Pune, Maharashtra, IN"
-        self.languages = ["Java", "Python", "Go"]
-        self.currently_exploring = ["AI Agents", "Kafka", "Redis", "Distributed Systems"]
-        self.currently_building = "systems that are fast, decoupled, and don't fall over"
+        self.languages = ["Java", "Python", "SQL"]
+        self.shipped_with = ["Spring Boot", "Redis Streams", "Docker", "Spring AI / RAG"]
+        self.currently_exploring = ["AI Agentic Workflows", "Apache Kafka", "Kubernetes"]
 
     def say_hi(self):
         return "Thanks for stopping by — let's build something real 🚀"
@@ -39,10 +41,11 @@ print(me.say_hi())
 ```
 
 - 🎓 B.Tech in Computer Science, **D. Y. Patil College of Engineering and Technology** (Class of 2025)
-- 🛠️ Core stack: **Java (Spring Boot)** & **Python**, with Node.js for rapid backend prototyping
-- 🧠 Actively going deeper into **AI agents / GenAI-powered products** — not toy demos, real integrations
-- 🌐 Leveling up on **event-driven & distributed systems** — Kafka, Redis, containerized deployments
-- 💬 Ask me about: secure auth flows, REST API design, or why caching saved my API latency
+- 🛠️ Core stack: **Java (Spring Boot)** & **Python**, with Spring Security, JPA/Hibernate, and REST API design
+- ⚙️ Built a **distributed background job processor** on Redis Streams with consumer groups, retries, and a Dead Letter Queue — [WorkQueue →](https://github.com/dynamicshreyashh/Workqueue-redisflow)
+- 🧠 Shipping real **GenAI integrations** (Spring AI, RAG, LLM APIs) — not toy demos
+- 🌐 Next up: Apache Kafka and Kubernetes, to round out the distributed-systems side
+- 💬 Ask me about: secure auth flows, message-queue reliability, or why caching saved my API latency
 
 <br/>
 
@@ -54,26 +57,28 @@ print(me.say_hi())
 
 <img src="https://skillicons.dev/icons?i=java,py,go" />
 
-**AI & Agentic Systems**
-
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_%2F_Vector_Search-black?style=for-the-badge)
-
 **Backend**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**AI / GenAI**
+
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_%2F_LLM_Integration-black?style=for-the-badge)
 
 **Distributed Systems & Infra**
 
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis_Streams-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+*next up: Apache Kafka · Prometheus/Grafana*
 
 **Frontend**
 
@@ -83,71 +88,102 @@ print(me.say_hi())
 
 **Databases & ORM**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
 <br/>
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-<details open>
-<summary><b>🧑‍💼 CareerConnect — Job Recruitment Platform</b></summary>
+### ⚙️ WorkQueue — Distributed Background Job Processor
+
+> `Java 17` `Spring Boot 3` `Redis Streams` `Docker Compose`
+
+A distributed job-processing system built as two independent Spring Boot services — a **Producer** that accepts jobs over REST, and a **Worker** that consumes them asynchronously off **Redis Streams**, using consumer groups for concurrent, acknowledgeable processing instead of a lossy Redis-list queue.
+
+```
+Client → POST /enqueue → Producer → XADD → Redis Stream (workqueue:jobs)
+                                                  │
+                                     Consumer Group: workqueue-workers
+                                                  │
+                              ┌───────────────────┴───────────────────┐
+                         Worker Thread 1                       Worker Thread N
+                                                  │
+                                    Success → ACK   │   Failure → Retry
+                                                     │
+                                          Retries exhausted → workqueue:dlq
+```
+
+- 🔁 **Consumer groups + ACKs** — no job loss if a worker crashes mid-processing (the failure mode a plain `LPUSH`/`LPOP` queue can't avoid)
+- 🧵 Concurrent worker threads with **pluggable `TaskHandler`s** — new job types drop in without touching the core consumer
+- ☠️ **Dead Letter Queue** for jobs that exhaust retries, plus a live `/metrics` endpoint for queue depth and success/failure counts
+- 🐳 Fully containerized — `docker compose up --build` spins up Producer, Worker, and Redis together
+
+**[→ View Repo](https://github.com/dynamicshreyashh/Workqueue-redisflow)**
+
 <br/>
 
-> `MongoDB` `Express.js` `Node.js` `React` `JWT`
+### 🤖 Smart Email Assistant — AI-Powered Gmail Extension
 
-A dual-interface MERN platform where recruiters post jobs and students apply in real time.
+> `Java` `Spring Boot` `Google Gemini API` `Chrome Extension (Manifest V3)`
 
-- 🔐 JWT + httpOnly cookies for secure auth
-- 🎭 Role-based access control (Student / Recruiter)
-- ⚡ Compound MongoDB indexes → ~40% cut in API response latency
+```
+Gmail compose window
+        │  Manifest V3 content script injects "AI Reply" button
+        ▼
+Chrome Extension  ──POST──▶  Spring Boot REST API  ──▶  Gemini AI API
+        ▲                                                    │
+        └──────────────── contextual reply (tone-matched) ◀──┘
+```
 
-**[→ View Repo](https://github.com/dynamicshreyashh/CareerConnect)**
-
-</details>
-
-<details>
-<summary><b>🤖 Smart Email Assistant — AI-Powered Gmail Extension</b></summary>
-<br/>
-
-> `Java` `Spring Boot` `Google Gemini AI` `Chrome Extension`
-
-A backend service that uses Google Gemini to read email context and generate smart replies, paired with a Chrome Extension that injects a "Smart Reply" button straight into Gmail.
-
-- 🧩 Custom Chrome Extension using `MutationObserver` to hook into Gmail's DOM
-- 🧠 Prompted & structured Gemini responses via a decoupled REST API
-- 🔑 API keys and AI logic kept server-side, never exposed to the client
+- 🎭 Generates contextual replies in **three selectable tones** — Professional, Friendly, Casual
+- 🧩 Manifest V3 extension using content scripts + DOM manipulation to embed the button directly in Gmail
+- 🔑 All Gemini calls routed through the backend — API key stays server-side, and the setup resolves the CORS conflicts between extension and server
 
 **[→ View Repo](https://github.com/dynamicshreyashh/smart-email-assistant)**
 
-</details>
-
-<details>
-<summary><b>🌍 Natours — Tour Booking Platform</b></summary>
 <br/>
 
-> `Node.js` `Express.js` `MongoDB` `Stripe API`
+### 🔗 URL Shortener — with a Real CI/CD Pipeline
 
-Full-stack tour booking app with multi-role authorization and payments.
+> `Spring Boot` `Hibernate / Spring Data JPA` `Docker` `GitHub Actions`
 
-- 🔐 JWT auth with Admin / Lead Guide / User roles
-- 💳 Stripe payment integration end-to-end
-- 🗺️ Geospatial MongoDB queries for location-based tour discovery
+| Stage | What happens |
+|---|---|
+| **1. Push** | Code pushed to `main` |
+| **2. Build & Test** | GitHub Actions builds the Spring Boot app and runs checks |
+| **3. Containerize** | Docker image built and verified |
+| **4. Deploy** | Image shipped to Render |
 
-**[→ View Repo](https://github.com/dynamicshreyashh/natours)**
+Full-stack link shortener (Spring Boot backend + JS frontend served directly from Spring Boot) supporting creation, redirection, expiration, click tracking, and deletion — with URL + click-analytics data modeled through Spring Data JPA and Hibernate.
 
-</details>
+- ⚙️ CI/CD pipeline in GitHub Actions automates build → test → image verification on every push
+- 📊 Click-analytics persisted per short link, not just a redirect table
+- 🐳 Containerized with Docker and deployed to Render
 
-<details>
-<summary><b>🔭 Currently Building — Agentic Workflow Experiments</b></summary>
+*(repo link not added yet — send it over and I'll wire it in)*
+
 <br/>
 
-> `Python` `LangChain` `Kafka` `Redis`
+<details>
+<summary><b>📦 Other Repos — CareerConnect & Natours</b></summary>
+<br/>
 
-A personal sandbox for wiring up autonomous AI agents on top of an event-driven backend — using Kafka for async task streams and Redis for fast state/session caching between agent steps. Work in progress, updates pushed as it matures.
+**🧑‍💼 [CareerConnect](https://github.com/dynamicshreyashh/CareerConnect)** — `MongoDB` `Express.js` `Node.js` `React` `JWT`
+Dual-interface MERN job platform with role-based access (Student/Recruiter) and compound MongoDB indexes cutting API latency ~40%.
+
+**🌍 [Natours](https://github.com/dynamicshreyashh/natours)** — `Node.js` `Express.js` `MongoDB` `Stripe API`
+Tour booking app with multi-role auth, Stripe payments, and geospatial queries for location-based discovery.
 
 </details>
 
@@ -171,10 +207,11 @@ Built a full-stack Event Management System: CRUD operations, data persistence, a
 ## 🎯 What's Next
 
 - [x] Ship AI features into production apps (Gemini-powered email assistant)
-- [x] Get comfortable with Python for backend + AI tooling
-- [ ] Build an end-to-end agentic pipeline (LangChain + Kafka + Redis)
+- [x] Build a distributed system from scratch (Redis Streams, consumer groups, DLQ)
+- [x] Automate a real CI/CD pipeline (GitHub Actions → Docker → Render)
+- [ ] Add Apache Kafka to the toolkit alongside Redis
 - [ ] Deploy a service on Kubernetes from scratch
-- [ ] Contribute to an open-source distributed-systems project
+- [ ] Wire up an end-to-end AI agent workflow on top of WorkQueue
 
 <br/>
 
