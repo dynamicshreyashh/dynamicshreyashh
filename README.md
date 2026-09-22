@@ -276,12 +276,21 @@ I am not collecting buzzwords. For every new tool or idea, I want to understand:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dynamicshreyashh&show_icons=true&hide_border=true&theme=transparent&title_color=00d4aa&icon_color=00d4aa&text_color=8b949e&bg_color=00000000&rank_icon=github" alt="Shreyash's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dynamicshreyashh&layout=compact&hide_border=true&theme=transparent&title_color=00d4aa&text_color=8b949e&bg_color=00000000&langs_count=6" alt="Top languages" />
+<a href="https://github.com/dynamicshreyashh">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dynamicshreyashh&theme=github_dark" width="96%" alt="GitHub profile summary" />
+</a>
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=dynamicshreyashh&hide_border=true&background=00000000&ring=00d4aa&fire=f0b429&currStreakLabel=00d4aa&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub contribution streak" />
+<a href="https://github.com/dynamicshreyashh">
+  <img src="https://img.shields.io/github/commit-activity/y/dynamicshreyashh?style=for-the-badge&label=commits%20this%20year&color=00d4aa" alt="Commits this year" />
+</a>
+<a href="https://github.com/dynamicshreyashh?tab=repositories">
+  <img src="https://img.shields.io/github/languages/count/dynamicshreyashh?style=for-the-badge&label=languages%20used&color=4c8eda" alt="Languages used" />
+</a>
+<a href="https://github.com/dynamicshreyashh">
+  <img src="https://img.shields.io/github/followers/dynamicshreyashh?style=for-the-badge&label=followers&color=f0b429" alt="GitHub followers" />
+</a>
 
 </div>
 
